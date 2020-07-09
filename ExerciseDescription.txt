@@ -1,0 +1,1 @@
+Eine Datenbank in XAMPP erstellen, basierend auf der draw.io Skitze von Day1.
